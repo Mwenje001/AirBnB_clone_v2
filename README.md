@@ -1,2 +1,6 @@
 # AirBnB_clone_v2
-A project by Gabriel Mwenje and Isaac Cleopas
+0. prepare your web servers
+1. Compress before sending
+2. Deploy archive!
+3. Full deployment
+
